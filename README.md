@@ -1,3 +1,1 @@
-# ArdentCraft-Invictus-Development#
-
-For easier acces for the developers.
+# ArdentCraft-Invictus-Development
